@@ -8,4 +8,4 @@ Testing
 
 ## Heading
 
-Lorem ipsum
+Lorem ipsum.
